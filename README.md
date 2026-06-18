@@ -14,8 +14,15 @@ Baixe e instale a versão mais recente do Python.
 2. Instale o Pygame;
 pip install pygame
 
-3. Execute o jogo;
+4. Instale o opencv: 
+pip install opencv-python
+
+5. Instale o numpy:
+pip install numpy
+
+6. Execute o jogo;
 python silencio_inoxidavel.py
+
 
 CONTROLES:
 
